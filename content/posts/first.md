@@ -5,4 +5,4 @@ draft: false
 ---
 ブログ開設おめでとうございます
 
-![旅行の写真]/trip.jpeg
+![旅行の写真](/trip.jpeg)
