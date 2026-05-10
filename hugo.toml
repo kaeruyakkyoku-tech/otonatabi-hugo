@@ -1,5 +1,5 @@
 baseURL =  'https://otonatabi-hugo.pages.dev'
 languageCode = 'ja-jp'
-title = '大人の旅ブログ'
+title = '配当金でどこに行く？資産4200万円サイドFIRE５０代女子の旅手帖'
 theme = "ananke"
 disableKinds = ["taxonomy", "term"]
