@@ -1,0 +1,5 @@
+baseURL =  'https://otonatabi-hugo.pages.dev'
+languageCode = 'ja-jp'
+title = '大人の旅ブログ'
+theme = "ananke"
+disableKinds = ["taxonomy", "term"]
