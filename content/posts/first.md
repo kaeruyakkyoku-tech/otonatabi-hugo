@@ -4,7 +4,7 @@ date: 2026-05-10
 draft: false
 ---
 
-<img src="/trip.jpeg" style="display: block; max-width: 100%; width: 500px; height: auto; margin: 20px  auto;">
+<img src="../../trip.jpeg" style="display: block; max-width: 100%; width: 500px; height: auto; margin:20px auto;">
 
 ＃沖縄2泊3日 資産4,200万円・50代サイドFIREの私が選んだ、大人のご褒美リゾート旅
 
