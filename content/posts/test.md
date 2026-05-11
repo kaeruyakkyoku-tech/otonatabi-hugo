@@ -2,7 +2,7 @@
 title: "自己紹介"
 date: 2026-05-10
 draft: false
-weight:1
+weight: 1
 ---
 
 はじめまして。このブログを運営している「SORA」と申します。
