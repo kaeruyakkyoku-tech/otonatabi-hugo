@@ -1,4 +1,4 @@
-baseURL = 'pages.dev'
+baseURL = 'pages.dev' 
 languageCode = 'ja-jp'
 title = '配当金でどこに行く？資産4200万円サイドFIRE５０代女子の旅手帖'
 theme = "ananke"
