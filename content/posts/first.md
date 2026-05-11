@@ -4,7 +4,7 @@ date: 2026-05-10
 draft: false
 ---
 
-<img src="/trip.jpeg" alt="旅行の写真" width="400">
+![旅行の写真](/trip.jpeg?width=400)
 
 ＃沖縄2泊3日 資産4,200万円・50代サイドFIREの私が選んだ、大人のご褒美リゾート旅
 
