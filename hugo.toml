@@ -1,7 +1,8 @@
 baseURL = 'https://pages.dev/'
 languageCode = 'ja-jp'
-title = '配当金でどこに行く？資産4200万円サイドFIRE５０代女子の旅手帖'
+title = '配当金でどこに行く？'
 theme = "ananke"
 disableKinds = ["taxonomy", "term"]
 [params]
-  hide_header_text = true
+  ananke_socials = false
+  show_header_text = false
