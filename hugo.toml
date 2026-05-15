@@ -6,3 +6,5 @@ disableKinds = ["taxonomy", "term"]
 [params]
   ananke_socials = false
   show_header_text = false
+[markup.goldmark.renderer]
+unsafe = true
