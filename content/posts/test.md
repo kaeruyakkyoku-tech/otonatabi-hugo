@@ -2,7 +2,7 @@
 タイトル: 「はじめまして。SORAです」
 日付: 2026年5月5日
 下書き: 間違い
-ウェイト: 1
+weight: 1
 ---
 
 ![海を望むバルコニー](https://images.unsplash.com/photo-1723005284185-69223166edd7?fm=jpg&q=80&w=1200&auto=format&fit=crop)
