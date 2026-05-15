@@ -4,7 +4,7 @@
 下書き: 間違い
 ---
 
-![伊勢・おはらい町の街並み](https://images.unsplash.com/photo-1774301464593-d61479e876a7?fm=jpg&q=80&w=1200&auto=format&fit=crop)
+![宇治橋と夜明けの空](/ujibashi.jpeg)
 
 3月、友人と2人で伊勢に行ってきました。2泊3日の旅です。
 
