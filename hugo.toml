@@ -1,10 +1,15 @@
-baseURL = 'https://pages.dev/'
+baseURL = 'https://otonatabi-hugo.pages.dev/'
 languageCode = 'ja-jp'
-title = ''
+title = '配当金でどこに行く？資産4200万円サイドFIRE５０代女子の旅手帖'
 theme = "ananke"
 disableKinds = ["taxonomy", "term"]
+
 [params]
   ananke_socials = false
   show_header_text = false
+  custom_css = ["css/custom.css"]
+  cover_dimming_class = "bg-black-50"
+  background_color_class = "bg-near-white"
+
 [markup.goldmark.renderer]
-unsafe = true
+  unsafe = true
