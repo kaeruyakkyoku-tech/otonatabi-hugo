@@ -13,7 +13,9 @@
 
 はじめまして、**SORA**です。
 
-50代、ひとり暮らし。資産4,200万円の配当金で、大人の旅を楽しんでいます。
+50代サイドFIREの大人旅。資産4,200万円で会社員を卒業し、ゆるっとサイドFIRE中です。
+
+慌ただしい日常を離れ、心をご機嫌にする「大人の賢いプチ贅沢旅」へ——。平日の混雑のないリゾートで、自分をとことん甘やかしています。
 
 ---
 
@@ -39,7 +41,7 @@
 - eMAXIS Slim S&P500・オルカンのインデックス積立＋高配当・優待株が中心
 - 現在の資産は約4,200万円。年間約26万円の配当金を旅の資金に
 - 好きなこと：ちょっといいホテル、温泉、美味しいもの、ひとり旅
-  - Instagram：[@sora_otonatabi](https://www.instagram.com/sora_otonatabi/)
+- Instagram：[@sora_otonatabi](https://www.instagram.com/sora_otonatabi/)
 
 ---
 
@@ -57,5 +59,7 @@
 ---
 
 同じ世代の方、少しでも「面白いな」と思っていただけたら、またのぞきに来てください。
+
+インスタも更新中です → [@sora_otonatabi](https://www.instagram.com/sora_otonatabi/)
 
 **SORA**
