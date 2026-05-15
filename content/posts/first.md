@@ -23,7 +23,7 @@ draft: false
 JALの往復航空券とホテル2泊（朝食2回と夕食1回付き）に、美ら海水族館とステーキハウス88の特典が付いて、ツアー代金はなんと！
 **一人あたり 4万2,900円！**
 
-<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770332&pid=892611298&vc_url=https%3A%2F%2Fwww.his-j.com%2Fkokunai%2FDefault.aspx" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3770332&pid=892611298" height="1" width="0" border="0">HISのツアーはこちら</a>
+[<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770332&pid=892611298&vc_url=https%3A%2F%2Fwww.his-j.com%2Fkokunai%2FDefault.aspx" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3770332&pid=892611298" height="1" width="0" border="0">HISのツアーはこちら</a>](https://valuecommerce.com)
 
 「なんでそんなに安いの？」と思いますよね？
 理由はシンプル。**「みんなが仕事で行けない、ガラ空きの平日」**に旅立ったからです。
