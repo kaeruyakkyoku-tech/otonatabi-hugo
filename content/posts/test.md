@@ -39,7 +39,7 @@
 - eMAXIS Slim S&P500・オルカンのインデックス積立＋高配当・優待株が中心
 - 現在の資産は約4,200万円。年間約26万円の配当金を旅の資金に
 - 好きなこと：ちょっといいホテル、温泉、美味しいもの、ひとり旅
-- Instagram：@sora
+  - Instagram：[@sora_otonatabi](https://www.instagram.com/sora_otonatabi/)
 
 ---
 
