@@ -1,6 +1,6 @@
 ---
 title: "はじめまして。SORAです"
-date: 2026-05-23
+date: 2026-05-22
 draft: false
 weight: 1
 ---
