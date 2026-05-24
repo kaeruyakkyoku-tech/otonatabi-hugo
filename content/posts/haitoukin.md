@@ -40,6 +40,11 @@ draft: false
 
 景気敏感株とディフェンシブ株をバランスよく組み合わせています。特定のセクターに集中しすぎず、**「倒れないような会社」を選ぶ**のが基本的な考え方です。
 
+高配当株の管理には**松井証券**を使っています。日本株の取引手数料が無料なのが助かっています。
+
+<a href="https://px.a8.net/svt/ejp?a8mat=4B3U73+FUDAB6+3XCC+62ENL" rel="nofollow">松井証券で口座開設する</a>
+<img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4B3U73+FUDAB6+3XCC+62ENL" alt="">
+
 ---
 
 ## 配当金はいつ入ってくるの？
