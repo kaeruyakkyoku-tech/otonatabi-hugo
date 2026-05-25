@@ -159,7 +159,9 @@ iDeCoも同じくS&P500一本。取得額153万円が393万円になりました
 
 日本株の取引には**松井証券**を使っています。手数料体系がわかりやすく、使いやすいのでおすすめです。
 
-<a href="https://px.a8.net/svt/ejp?a8mat=4B3U73+FUDAB6+3XCC+62ENL" rel="nofollow">松井証券で口座開設する</a>
+<div style="text-align:center; margin:24px 0;">
+<a href="https://px.a8.net/svt/ejp?a8mat=4B3U73+FUDAB6+3XCC+62ENL" rel="nofollow" style="display:inline-block; background:#e8b400; color:#fff; padding:14px 32px; border-radius:8px; font-weight:bold; font-size:16px; text-decoration:none;">📊 松井証券で無料口座開設はこちら →</a>
+</div>
 <img border="0" width="1" height="1" src="https://www14.a8.net/0.gif?a8mat=4B3U73+FUDAB6+3XCC+62ENL" alt="">
 
 そして今、これらの株が**年間約26万円の配当金**を生み出してくれています。

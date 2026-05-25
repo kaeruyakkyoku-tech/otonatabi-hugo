@@ -74,7 +74,10 @@ draft: false
 
 > 朝食付き：8,955円（1人あたり）/ Yahooトラベル予約
 
-<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770332&pid=892613396&vc_url=https%3A%2F%2Ftravel.yahoo.co.jp%2F00081541%2F%3Fdiscsort%3D1%26lc%3D1%26ppc%3D2%26rc%3D1%26st%3D1" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3770332&pid=892613396" height="1" width="0" border="0">コンフォートホテルERA伊勢はこちら</a>
+<div style="text-align:center; margin:24px 0;">
+<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770332&pid=892613396&vc_url=https%3A%2F%2Ftravel.yahoo.co.jp%2F00081541%2F%3Fdiscsort%3D1%26lc%3D1%26ppc%3D2%26rc%3D1%26st%3D1" rel="nofollow" style="display:inline-block; background:#e05a2b; color:#fff; padding:14px 32px; border-radius:8px; font-weight:bold; font-size:16px; text-decoration:none;">🏨 コンフォートホテル伊勢をYahoo!トラベルで見る →</a>
+</div>
+<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3770332&pid=892613396" height="1" width="0" border="0">
 
 ---
 
@@ -108,7 +111,10 @@ draft: false
 
 > 夕・朝食付き（オールインクルーシブ）：9,813円（1人あたり）/ Yahooトラベル予約
 
-<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770332&pid=892613396&vc_url=https%3A%2F%2Ftravel.yahoo.co.jp%2F00003139%2F%3Fdiscsort%3D1%26lc%3D1%26ppc%3D2%26rc%3D1%26st%3D1" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3770332&pid=892613396" height="1" width="0" border="0">グランドメルキュール伊勢志摩はこちら</a>
+<div style="text-align:center; margin:24px 0;">
+<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770332&pid=892613396&vc_url=https%3A%2F%2Ftravel.yahoo.co.jp%2F00003139%2F%3Fdiscsort%3D1%26lc%3D1%26ppc%3D2%26rc%3D1%26st%3D1" rel="nofollow" style="display:inline-block; background:#e05a2b; color:#fff; padding:14px 32px; border-radius:8px; font-weight:bold; font-size:16px; text-decoration:none;">🏨 グランドメルキュール伊勢志摩をYahoo!トラベルで見る →</a>
+</div>
+<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3770332&pid=892613396" height="1" width="0" border="0">
 
 ---
 
