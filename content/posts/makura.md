@@ -67,9 +67,12 @@ categories: ["おすすめアイテム"]
 ## 気になった方はこちらから
 
 <div style="text-align:center; margin:24px 0;">
-<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770332&pid=892620984&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fichioshihonpo%2F312940.html" rel="nofollow" style="display:inline-block; background:#ff0033; color:#fff; padding:14px 32px; border-radius:8px; font-weight:bold; font-size:16px; text-decoration:none;">🛛 Yahoo!ショッピングで見る →</a>
+<script language="javascript" src="//ad.jp.ap.valuecommerce.com/servlet/jsbanner?sid=3770332&pid=892620984"></script><noscript><a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770332&pid=892620984" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3770332&pid=892620984" border="0"></a></noscript>
 </div>
-<img border="0" width="1" height="1" src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3770332&pid=892620984" alt="">
+
+<div style="text-align:center; margin:16px 0 24px;">
+<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770332&pid=892620984&vc_url=https%3A%2F%2Fstore.shopping.yahoo.co.jp%2Fichioshihonpo%2F312940.html" rel="nofollow" style="display:inline-block; background:#ff0033; color:#fff; padding:14px 32px; border-radius:8px; font-weight:bold; font-size:16px; text-decoration:none;">🛒 Yahoo!ショッピングで見る →</a>
+</div>
 
 旅先で出会った「いいもの」を、日常に持ち帰る。それも旅の楽しみのひとつだなと、この枕を使うたびに思います。
 
