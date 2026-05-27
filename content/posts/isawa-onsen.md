@@ -100,6 +100,11 @@ draft: false
 
 温泉と桜と太鼓ショー、山登りに忍野八海にほったらかし温泉——欲張りすぎなくらい充実した1泊2日でした。とても素晴らしかった。石和温泉、また来たいと思える場所です。
 
+<div style="text-align:center; margin:24px 0;">
+<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770332&pid=892613396&vc_url=https%3A%2F%2Ftravel.yahoo.co.jp%2F00030068%2F%3Fcid%3D20260614%26lc%3D1%26ppc%3D2%26rc%3D1" rel="nofollow" style="display:inline-block; background:#e05a2b; color:#fff; padding:14px 32px; border-radius:8px; font-weight:bold; font-size:16px; text-decoration:none;">🏨 はなやぎの章 慶山をYahoo!トラベルで見る →</a>
+</div>
+<img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3770332&pid=892613396" height="1" width="0" border="0">
+
 ---
 
 *料金・情報は2026年3月時点のものです。*
