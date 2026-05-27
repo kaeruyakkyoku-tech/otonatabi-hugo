@@ -1,6 +1,6 @@
 ---
 title: "はじめまして。SORAです"
-date: 2026-05-22
+date: 2026-01-01
 draft: false
 weight: 1
 categories: ["ブログについて"]
