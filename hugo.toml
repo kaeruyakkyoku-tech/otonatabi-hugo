@@ -2,7 +2,7 @@ baseURL = 'https://otonatabi-hugo.pages.dev/'
 languageCode = 'ja-jp'
 title = '配当金でどこに行く？資産4200万円サイドFIRE５０代女子の旅手帖'
 theme = "ananke"
-disableKinds = ["taxonomy", "term"]
+mainSections = ["posts"]
 
 [params]
   ananke_socials = false
@@ -13,3 +13,18 @@ disableKinds = ["taxonomy", "term"]
 
 [markup.goldmark.renderer]
   unsafe = true
+
+[[menu.main]]
+  name = "旅行記"
+  url = "/categories/%E6%97%85%E8%A1%8C%E8%A8%98/"
+  weight = 1
+
+[[menu.main]]
+  name = "グルメ"
+  url = "/categories/%E3%82%B0%E3%83%AB%E3%83%A1/"
+  weight = 2
+
+[[menu.main]]
+  name = "株・投資"
+  url = "/categories/%E6%A0%AA%E3%83%BB%E6%8A%95%E8%B3%87/"
+  weight = 3

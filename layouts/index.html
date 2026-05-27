@@ -1,0 +1,28 @@
+{{ define "main" }}
+
+  <!-- カテゴリフィルターボタン -->
+  <div class="cat-filter-row">
+    <a href="/" class="cat-filter-btn cat-all">すべての記事</a>
+    {{ range site.Taxonomies.categories.ByCount }}
+      <a href="{{ .Page.RelPermalink }}" class="cat-filter-btn">{{ .Page.Title }}（{{ .Count }}）</a>
+    {{ end }}
+  </div>
+
+  <!-- 記事グリッド -->
+  <div class="posts-grid">
+    {{ $posts := where .Site.RegularPages "Section" "posts" }}
+    {{ range $posts.ByDate.Reverse }}
+    <article class="post-card">
+      <a href="{{ .RelPermalink }}" class="post-card-link">
+        {{ with .Params.categories }}
+        <span class="post-card-cat">{{ index . 0 }}</span>
+        {{ end }}
+        <h2 class="post-card-title">{{ .Title }}</h2>
+        <p class="post-card-excerpt">{{ truncate 75 (.Summary | plainify) }}</p>
+        <time class="post-card-date">{{ .Date.Format "2006.01.02" }}</time>
+      </a>
+    </article>
+    {{ end }}
+  </div>
+
+{{ end }}

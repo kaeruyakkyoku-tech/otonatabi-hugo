@@ -2,6 +2,7 @@
 title: "沖縄旅行2泊3日"
 date: 2026-05-21
 draft: false
+categories: ["旅行記"]
 ---
 
 ![旅行の写真](/trip.jpeg?width=400)

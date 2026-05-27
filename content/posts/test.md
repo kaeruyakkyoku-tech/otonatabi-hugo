@@ -3,6 +3,7 @@ title: "はじめまして。SORAです"
 date: 2026-05-22
 draft: false
 weight: 1
+categories: ["ブログについて"]
 ---
 
 ![海を望むバルコニー](https://images.unsplash.com/photo-1723005284185-69223166edd7?fm=jpg&q=80&w=1200&auto=format&fit=crop)
