@@ -91,7 +91,7 @@ categories: ["グルメ"]
 早めに到着して窓際席を確保するのがおすすめです。じゃらんのクーポンも使えてお得でした。
 
 <div style="text-align:center; margin:24px 0;">
-<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770332&pid=892620914" rel="nofollow" style="display:inline-block; background:#e05a2b; color:#fff; padding:14px 32px; border-radius:8px; font-weight:bold; font-size:16px; text-decoration:none;">🍽️ じゃらんでレストランを探す →</a>
+<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770332&pid=892620914" rel="nofollow" style="display:inline-block; background:#e05a2b; color:#fff; padding:14px 32px; border-radius:8px; font-weight:bold; font-size:16px; text-decoration:none;">🎯 じゃらんで遊び・体験を探す →</a>
 </div>
 <img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3770332&pid=892620914" height="1" width="0" border="0">
 
