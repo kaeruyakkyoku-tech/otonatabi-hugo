@@ -7,6 +7,10 @@ categories: ["旅行記"]
 
 新宿8時30分発のロマンスカーに乗り込んだ瞬間から、非日常が始まりました。
 
+<div style="text-align:center; margin:24px 0;">
+<iframe width="315" height="560" src="https://www.youtube.com/embed/yPZjqqIWKZE" title="箱根1泊2日の旅" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 箱根に行くなら、**箱根フリーパス**は絶対に買ったほうがいい——と、今回改めて確信しました。新宿発の2日券（7,100円）1枚で、交通費が通常16,520円かかるところを7,100円に。**9,420円の節約**です。さらにポーラ美術館の入館料割引（200円引き）も含めると、トータル**9,620円お得**に旅できました。
 
 ---
