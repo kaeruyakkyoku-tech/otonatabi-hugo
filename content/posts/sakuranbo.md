@@ -110,7 +110,7 @@
 
 バスツアーは自分で全部手配しなくていいのが楽で、ひとりでも気軽に参加できます。季節ごとにいろんなツアーが出ているので、また別のシーズンにも参加してみたいと思いました。
 
-▶ [HIS 国内バスツアー（首都圏発）](https://bus-tour.his-j.com/tyo/)
+<a href="//ck.jp.ap.valuecommerce.com/servlet/referral?sid=3770332&pid=892611298&vc_url=https%3A%2F%2Fbus-tour.his-j.com%2Ftyo%2F" rel="nofollow"><img src="//ad.jp.ap.valuecommerce.com/servlet/gifbanner?sid=3770332&pid=892611298" height="1" width="0" border="0">HISのバス旅行はこちら</a>
 
 佐藤錦の食べ放題、また来年も行きたいです。
 
