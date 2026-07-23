@@ -75,6 +75,11 @@ categories: ["旅行記"]
 
 > 宿泊料金：2人で34,000円（夕・朝食バイキング付）
 
+<div style="text-align:center; margin:24px 0;">
+<a href="https://h.accesstrade.net/sp/cc?rk=0100k7aw00osu3" rel="nofollow" referrerpolicy="no-referrer-when-downgrade" style="display:inline-block; background:#e05a2b; color:#fff; padding:14px 32px; border-radius:8px; font-weight:bold; font-size:16px; text-decoration:none;">🏨 三日月シーパークホテル勝浦をじゃらんで見る →</a>
+</div>
+<img src="https://h.accesstrade.net/sp/rr?rk=0100k7aw00osu3" height="1" width="0" border="0">
+
 ---
 
 ## 17時半から夕食バイキング。これが本番でした
